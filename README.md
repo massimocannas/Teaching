@@ -18,7 +18,7 @@ This repository is in preparation and will be updated from time to time.
 ## Italiano
 
 Appunti, slide ed esercizi di alcuni corsi da me tenuti. 
-Questo repository è in preparazione. Verrà aggiornato periodicamente.
+Questo repository è in preparazione e verrà aggiornato periodicamente.
 
 ### Corsi
 - Statistica (a.a. 2025–2026)
