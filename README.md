@@ -1,10 +1,29 @@
 
-# Teaching - Insegnamenti
-Notes, slides, exercises from some of the courses I taught.
+# Teaching — Insegnamenti
 
-- Statistica (aa 2025-2026)
-- Processi stocastici applicati (reading course, vari aa)
-- Metodi Statistici per la medicina (seminario, da definire)
-- Stochastic models (PhD course, june 2026)
+## English
 
-This repos will be updated from time to time.
+Notes, slides, and exercises from some of the courses I have taught.  
+This repository is in preparation and will be updated from time to time.
+
+### Courses
+- Statistics (AY 2025–2026) — IT
+- Applied Stochastic Processes (reading course, various AYs) — IT
+- Statistical Methods for Medical Research (seminar, TBA) — IT
+- Statistics in Medicine: a phylosophical perspective- (seminar, TBA) — IT
+- Stochastic Models (PhD course, June 2026) — EN
+
+---
+
+## Italiano
+
+Appunti, slide ed esercizi di alcuni corsi da me tenuti. 
+Questo repository è in preparazione. Verrà aggiornato periodicamente.
+
+### Corsi
+- Statistica (a.a. 2025–2026)
+- Processi stocastici applicati (reading course, vari a.a.)
+- Metodi statistici per la ricerca medica (seminario, da definire)
+- La statistica in medicina: una prospettiva filosofica (seminario, da definire)
+- Stochastic Models (corso di dottorato, giugno 2026)
+
