@@ -7,8 +7,10 @@ Appunti, esercizi e materiali realizzati dagli studenti (grazie a Luca Onnis per
 Animazioni GIF e HTML che illustrano l’evoluzione temporale di alcuni processi (es. random walks, Ising, mixing, self avoiding walks, random walks, brownian motion).
 
 📖 Testi di riferimento
-N. Privault, Understanding Markov Chains, 2nd Edition, Springer (2018). 
+N. Privault, Understanding Markov Chains, 2nd Edition, Springer (2018)
+
 N. Privault, Discrete Stochastic Processes, Springer (2024)
+
 Appunti disponibili sul Team del corso.
 
 🔗 Links
