@@ -10,7 +10,7 @@ Animazioni GIF e HTML che illustrano l’evoluzione temporale di alcuni processi
 N. Privault, Understanding Markov Chains, 2nd Edition, Springer (2018). Appunti disponibili sul Team del corso.
 
 🔗 Links
-- [Programma reading aa 2025-2026]{https://web.unica.it/unica/protected/516625/0/def/ref/GNC331764/}
+- [Programma reading aa 2025-2026](https://web.unica.it/unica/protected/516625/0/def/ref/GNC331764/)
 - [Minisito GitHub Pages (animazioni HTML eseguibili)](https://massimocannas.github.io/Processi-Stocastici-applicati/)
 - [Cartella GIF](./docs/gif)
 - [Cartella HTML](./docs/html)
